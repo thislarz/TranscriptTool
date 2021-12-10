@@ -1,0 +1,9 @@
+What should the tool do? (10.12.21)
+
+There should be a menue Option cleanDocument()
+-> Document is copied
+-> all text that has red or yellow background shall be removed
+    - in Lists
+    - Paragraphs
+    - inside Paragraphs
+    - inside Tabels
